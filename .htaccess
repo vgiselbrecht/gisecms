@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([^.]+)$ index.php?seite=$1 [L]
